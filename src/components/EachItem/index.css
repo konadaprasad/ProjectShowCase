@@ -1,0 +1,19 @@
+.list-cont {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: #e2e8f0;
+  margin: 20px;
+  border-radius: 10px;
+}
+.img {
+  height: 150px;
+  width: 230px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.para {
+  font-size: 16px;
+  color: #475569;
+  font-weight: 500;
+}
